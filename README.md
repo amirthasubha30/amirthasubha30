@@ -3,7 +3,7 @@
 - I’m currently learning UI designs, HTML CSS, python  and I'm always eager to expand my skills and knowledge
 - In my free time, I enjoy working on personal projects, contributing to open-source, and exploring new coding challenges
 - How to reach me amirthasubha1999@gmail.com
-- LinkedIn https://www.linkedin.com/in/subhaamirtha-s
+- LinkedIn https:https://www.linkedin.com/in/subhaamirtha-s-35283a2a2
 
 
 <!---
